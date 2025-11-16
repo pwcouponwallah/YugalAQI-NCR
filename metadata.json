@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AQI Monitor Delhi-NCR",
+  "description": "An AI-driven platform for Delhi-NCR that provides real-time air quality monitoring, pollution source identification, AQI forecasting, and personalized health alerts. Citizens can submit complaints, find safe routes, and access a policy dashboard for data-driven insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
